@@ -1,6 +1,5 @@
 import './App.css'
 import Navbar from '../src/Components/NavBar'
-import CreateDog from '../src/Components/CreateDog';
 
 
 function App() {
